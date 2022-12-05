@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 90%;
+}
+
+#header {
+  background-color: rgb(215, 233, 233);
+  padding: 1.5rem;
+}
+
+#nav-bar {
+
+}
+
+nav > a {
+  text-decoration: none;
+  justify-content: space-between;
+}
+
+.get-started {
+  margin: auto;
+}
+
+.container {
+  width: 70%;
+  justify-items: center;
+  margin: 0 auto;
+}
+
+
